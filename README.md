@@ -15,6 +15,8 @@ This project is a **poker analysis program** that calculates the probability of 
 2. **Specify the community cards.** (Flop, Turn, River)  
 3. **Run the analysis** and see the probabilities displayed on the screen.  
 
-## 📜 **License**  
+## 📜 License  
 This project is licensed under the **Creative Commons Attribution-NonCommercial 4.0 (CC BY-NC 4.0)** license.  
 Commercial use is prohibited, but it can be freely used for educational purposes.  
+[License Details](https://creativecommons.org/licenses/by-nc/4.0/)  
+
